@@ -37,13 +37,14 @@ Here are some ideas to get you started:
 
 - 📄 Know about my experiences **I have worked on creating many webpages, but as a freelancer I've created Flutter applications for my clients, with time I have learned so many things and improved more my projects.**
 
-- ⚡ Fun fact **A goldfish, at 9 seconds, has a longer attention span than the average internet user.**
+- ⚡ Fun fact: **A goldfish, at 9 seconds, has a longer attention span than the average internet user.**
 
 <h1></h1>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">:earth_americas: Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ashley-valdez-2a3559149" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ashley-valdez-2a3559149" height="30" width="40" /></a>
 <a href="https://discord.gg/BlackLotus#5385" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="BlackLotus#5385" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/12224308/ashley" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/12224308/ashley" height="30" width="40" /></a>
 </p>
 <h1></h1>
 <h3 align="left">:hammer_and_wrench: Languages and Tools:</h3>
