@@ -21,7 +21,15 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Ashley Valdez</h1>
 
-<h3 align="center">A passionate frontend developer| Flutter app developer from Guatemala</h3>
+<p align="center">
+  <img 
+    width="600"
+    height="300"
+    src="https://github.com/Ashleyvv26/Ashleyvv26/blob/main/AshleyLogo.png"
+  >
+</p>
+
+<h3 align="center">A passionate Frontend Developer | Flutter App Developer from Guatemala</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashleyvv26&label=Profile%20views&color=0e75b6&style=flat" alt="ashleyvv26" /> </p>
