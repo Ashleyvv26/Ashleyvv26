@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 - 📄 Know about my experiences **I have worked on creating many webpages, but as a freelancer I've created Flutter applications for my clients, with time I have learned so many things and improved more my projects.**
 
-- ⚡ Fun fact: **A goldfish, at 9 seconds, has a longer attention span than the average internet user.**
+- ⚡ Fun fact: **A goldfish, at 9 seconds, has a longer attention span than the average internet user, so let's improve websites and apps so we keep our clients and new clients in our applications!**
 
 <h1></h1>
 <h3 align="left">:earth_americas: Connect with me:</h3>
