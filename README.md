@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: **A goldfish, at 9 seconds, has a longer attention span than the average internet user, so let's improve websites and apps so we keep our clients and new clients in our applications!**
 
 <h1></h1>
-<h3 align="left">:earth_americas: Connect with me:</h3>
+<h3 align="left">:earth_americas: Connect with me: </h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ashley-valdez-2a3559149" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ashley-valdez-2a3559149" height="30" width="40" /></a>
 <a href="https://discordapp.com/users/335319197087170561/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="BlackLotus#5385" height="30" width="40" /></a>
